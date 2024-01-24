@@ -2,6 +2,7 @@
   "networking": {
     "allowedIpRanges": [
       "192.111.95.0/24",
+      "45.30.6.10/32",
     ]
   },
   "routes": [
